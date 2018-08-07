@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Offlimit</string>
+    <string name="create_sequence_trial">USING YOUR VOLUME KEYS, ENTER A 3 DIGIT SEQUENCE.</string>
+    <string name="recording_started">Recording in progress, you can save your combination with save button below when you finish recording</string>
+    <string name="start_recording">Welcome to distress key combination wizard. Click the <b><i>start recording</i></b> button below to record your combination </string>
+
+</resources>
